@@ -2,8 +2,8 @@
 
 namespace Rolies106\Hmac\Plugin;
 
-use Mardy\Hmac\Manager;
-use Mardy\Hmac\Adapters\AdapterInterface;
+use Rolies106\Hmac\Manager;
+use Rolies106\Hmac\Adapters\AdapterInterface;
 use GuzzleHttp\Event\BeforeEvent;
 use GuzzleHttp\Event\SubscriberInterface;
 

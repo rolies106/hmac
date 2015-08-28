@@ -2,7 +2,7 @@
 
 namespace Rolies106\Hmac\Adapters;
 
-use Mardy\Hmac\Entity;
+use Rolies106\Hmac\Entity;
 
 /**
  * Class AbstractAdapter
