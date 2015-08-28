@@ -1,8 +1,8 @@
 {
-    "name": "mardy-git/hmac",
+    "name": "rolies106/hmac",
     "description": "A keyed-Hash Message Authentication Code (HMAC). Used for application to application authentication.",
     "keywords": ["HMAC", "authentication", "hash", "pbkdf2", "bcrypt", "guzzle-plugin"],
-    "homepage": "http://github.com/mardy-git/hmac",
+    "homepage": "http://github.com/rolies106/hmac",
     "license": "WTFPL",
     "require": {
         "php": ">=5.5"
@@ -15,13 +15,13 @@
     },
     "authors": [
         {
-            "name": "Michael Bardsley",
-            "email": "me@mic-b.co.uk"
+            "name": "Rolies Deby",
+            "email": "rolies106@gmail.com"
         }
     ],
     "autoload": {
         "psr-0": {
-            "Mardy\\Hmac": "src/"
+            "Rolies106\\Hmac": "src/"
         }
     },
     "minimum-stability": "dev"
