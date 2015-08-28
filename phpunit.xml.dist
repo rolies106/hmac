@@ -13,7 +13,7 @@
 >
 
     <testsuites>
-        <testsuite name="Mardy-Git HMAC Test Suite">
+        <testsuite name="HMAC Test Suite">
             <directory>./tests/</directory>
         </testsuite>
     </testsuites>

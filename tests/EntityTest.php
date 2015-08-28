@@ -1,6 +1,6 @@
 <?php
 
-use Mardy\Hmac\Entity;
+use Entity;
 
 class EntityTest extends PHPUnit_Framework_Testcase
 {

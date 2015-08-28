@@ -1,8 +1,7 @@
-Mardy-Git HMAC
+HMAC Generator
 ==============
-[![Build Status](https://travis-ci.org/mardy-git/hmac.png?branch=master)](https://travis-ci.org/mardy-git/hmac)
 
-A simple lightweight HMAC generator and checker.
+A simple lightweight HMAC generator and checker. Forked from [mardy-git/hmac](http://github.com/mardy-git/hmac).
 
 Currently this is used to authenticate applications to other applications.
 

@@ -1,7 +1,7 @@
 <?php
 
-use Mardy\Hmac\Manager;
-use Mardy\Hmac\Adapters\Hash;
+use Manager;
+use Adapters\Hash;
 
 class ManagerTest extends PHPUnit_Framework_Testcase
 {
