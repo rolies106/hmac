@@ -1,6 +1,6 @@
 <?php
 
-namespace Mardy\Hmac\Adapters;
+namespace Rolies106\Adapters;
 
 use Mardy\Hmac\Entity;
 

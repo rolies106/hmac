@@ -1,6 +1,6 @@
 <?php
 
-namespace Mardy\Hmac;
+namespace Rolies106;
 
 /**
  * Manager Class

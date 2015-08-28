@@ -1,6 +1,6 @@
 <?php
 
-namespace Mardy\Hmac\Plugin;;
+namespace Rolies106\Plugin;
 
 use Mardy\Hmac\Manager;
 use Mardy\Hmac\Adapters\AdapterInterface;
