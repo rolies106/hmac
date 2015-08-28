@@ -1,6 +1,6 @@
 <?php
 
-namespace Rolies106;
+namespace Rolies106\Hmac;
 
 /**
  * Entity Class

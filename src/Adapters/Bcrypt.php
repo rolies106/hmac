@@ -1,6 +1,6 @@
 <?php
 
-namespace Rolies106\Adapters;
+namespace Rolies106\Hmac\Adapters;
 
 /**
  * Bcrypt Adapter
