@@ -32,7 +32,12 @@ class Bcrypt extends AbstractAdapter
      */
     protected function hash($data, $salt = '', $iterations = 10)
     {
-        return password_hash($data . $salt, $this->algorithm, ['cost' => $iterations, 'salt' => md5($salt)]);
+        if (version_compare(PHP_VERSION, '7.0.0', '>='))
+            $options = ['cost' => $iterations];
+        else
+            $options = ['cost' => $iterations, 'salt' => md5($salt)];
+        
+        return password_hash($data . $salt, $this->algorithm, $options);
     }
 
     /**
