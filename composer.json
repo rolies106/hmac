@@ -23,6 +23,5 @@
         "psr-4": {
             "Rolies106\\Hmac\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
